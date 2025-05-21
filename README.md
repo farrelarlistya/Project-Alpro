@@ -13,5 +13,5 @@ Aturan main:
 - Pemain yang terpaksa mengambil tongkat terakhir (tersisa 1) dinyatakan kalah.
 
 Terdapat dua mode:
-Easy → Komputer bermain tanpa strategi, memberi peluang besar bagi user untuk menang.
-Hard → Komputer bermain optimal dan berusaha membuat user berada di posisi kalah secara matematis.
+- Easy → Komputer bermain tanpa strategi, memberi peluang besar bagi user untuk menang.
+- Hard → Komputer bermain optimal dan berusaha membuat user berada di posisi kalah secara matematis.
